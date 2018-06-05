@@ -1,0 +1,52 @@
+Raspberry Pi Notes
+----------------------------------------------------------------------------
+By Ryan Milkovits (Intellectual Property of Ryan M.)
+----------------------------------------------------------------------------
+-For OOPS prototype, use Raspberry Pi with GPIO 
+ports for connecting AODDS and AND modules. The Pi 
+will be mounted on the main armband along with the 
+power toggle button [?:Connected to GPIO?]. For the 
+AODDS module, we will use a standard pulse detection 
+sensor module where no pulse will equal an overdose 
+and anything else will equal non-overdose. [?:Which?]
+For the AND module, we will utilize a 'straight line 
+mechanism' to push or 'apply a force' in the process 
+of dispensing naloxone. The AND will use a mechanical 
+pushing module to either by pushing on the back of an
+intranasal naloxone device or by pushing on the back 
+of a syringe plunger used to inject naloxone into a 
+muscle such as the upper arm or shoulder muscle. Many 
+factors will impact what decisions are made for the 
+actual and prototype designs for the AND [?:IN/IM?].
+
+-Instead of a Raspberry Pi specifically, what the
+design is connected to is an 'MCU'. Options include 
+the Arduino Yun, the Pi 3, or my favorite, the Pi 
+Zero!
+
+-The Raspberry Pi Zero is perfect! It costs 5$, has a 
+lot of GPIO pins, and is lightweight - ie perfect. No
+Wifi capabilities will be beneficial for security, if 
+using a minimalist security approach rather than 
+trusting new code to protect users' medical privacy. 
+
+-OOPS Device Module Ordering Diagram: 
+PI->PWR Button			
+  ->AODDS (OEM Pulse Sensor)		   
+  ->AND (Straight Line Mechanism) ->Linear Push Mec. -> IN/IM Dispenser  
+
+-It appears that a solenoid may work better than a 
+straight line mechanism for activating the naloxone
+dispenser in the AND module. A solenoid valve is used
+to create pressure changes with electricity just as 
+needed in the prototype, such as when the IM syringe
+needs to have its plunger pushed down to inject.
+
+-An actuator is the specific technical term to 
+describe what the 'push' will be done by within the 
+AND module. The AND will have an actuator and Narcan, 
+either with the IM or IN ROA and resulting designs. 
+
+-3D printing may be able to generate a soft actuator 
+for free! We will need it to be 'biocompatible'.
+----------------------------------------------------------------------------	    

@@ -1,0 +1,9 @@
+Pulse Sensor
+http://a.co/5qofgNh
+Raspberry Pi Zero
+http://a.co/1goE6Wf
+Push Solenoid
+https://www.adafruit.com/product/413
+Intranasal Naloxone Atomizer
+https://www.savelives.com/product/mad-mucosal-atomization-device-nasal-mad-7157.cfm?gclid=EAIaIQobChMI5vnM3be82wIVl4vICh2fjQPrEAkYASABEgLXGPD_BwE
+

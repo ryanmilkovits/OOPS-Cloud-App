@@ -8,11 +8,11 @@
 	"buffers":
 	[
 		{
-			"file": "Reference/README.txt",
+			"file": "/C/Program Files/Autodesk/CAD Manager Tools/ReadMe_CADMgr.htm",
 			"settings":
 			{
-				"buffer_size": 159,
-				"encoding": "UTF-8",
+				"buffer_size": 7573,
+				"encoding": "Western (Windows 1252)",
 				"line_ending": "Windows"
 			}
 		}
@@ -53,6 +53,9 @@
 	],
 	"file_history":
 	[
+		"/C/Program Files/Autodesk/CAD Manager Tools/identity.ini",
+		"/C/Users/eleos/Desktop/RyanMilkovitsIntellectualProperty/CONFIDENTIAL_IP_OF_RYAN_MILKOVITS/Development/Reference/README.txt",
+		"/C/Program Files/Windows Portable Devices/sqmapi.dll"
 	],
 	"find":
 	{
@@ -98,27 +101,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Reference/README.txt",
+					"file": "/C/Program Files/Autodesk/CAD Manager Tools/ReadMe_CADMgr.htm",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 159,
+						"buffer_size": 7573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								159,
-								159
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5886.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
