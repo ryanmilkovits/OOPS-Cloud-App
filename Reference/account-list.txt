@@ -1,5 +1,11 @@
-1. Gmail: DOB: Jan 1st, 1990
+1. Gmail: 
+DOB: Jan 1st, 1990
 Username: UpsilonMedical@gmail.com 
 Password: upsilon888
 
-2.
+2. AWS:
+Email: UpsilonMedical@gmail.com
+Username: UpsilonMedical 
+Password: upsilon7979!
+
+3.
