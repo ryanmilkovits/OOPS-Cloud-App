@@ -1,0 +1,26 @@
+body {
+  background-image: url("http://ryanmilkovits.github.io/css/img/12RySCalArt18.png");
+  /*background-repeat: no-repeat;*/
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  /*color: #757373;*/
+}
+div.white-text {
+  color: white;
+}
+div.jumbotron {
+  margin-top: 50px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+  background-color: #101010;
+  /*box-shadow: 0 0 2px #1D1D1D;*/
+}
+.navbar-fixed-top {
+  background-color: #1D1D1D;
+}
+.btn-lg {
+  font-size: 1.3em;
+  padding: 15px 50px;
+}
