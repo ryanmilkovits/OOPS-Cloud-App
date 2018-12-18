@@ -8,4 +8,9 @@ Email: UpsilonMedical@gmail.com
 Username: UpsilonMedical 
 Password: upsilon7979!
 
-3.
+3.stampr:
+Email: debuglog1000@gmail.com
+Name: Ryan Milkovits
+Password: upSEE99
+
+4.
