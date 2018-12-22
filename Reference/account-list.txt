@@ -13,7 +13,7 @@ Email: debuglog1000@gmail.com
 Name: Ryan Milkovits
 Password: upSEE99
 
-4. PayPal (Business Account)
+4. PayPal (Business Account). NOT COMPLETE, NEEDS CORPS EIN
 Email: upsilonmedical@gmail.com
 Password: UpsilonGREEK$
 Phone Number: 6199066843
@@ -21,4 +21,8 @@ Business Contact Name: Ryan Milkovits
 Business Name: Upsilon Medical Corporation
 Address (placeholder to be changed): 25861 Forest Drive
 
-5. 
+5. Microsoft Dreamspark
+Username: rmilkovi@ucsd.edu
+Password: same as UCSD
+
+6.
