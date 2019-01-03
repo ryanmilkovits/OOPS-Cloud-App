@@ -25,4 +25,9 @@ Address (placeholder to be changed): 25861 Forest Drive
 Username: rmilkovi@ucsd.edu
 Password: same as UCSD
 
-6.
+6. WordPress 
+Email: debuglog1000@gmail.com
+Password: Justin887$
+Name: Ryan Milkovits
+
+7.
